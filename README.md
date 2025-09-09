@@ -1,69 +1,34 @@
 # gbolahan-s-project
 Analytics Portfolio
-# 📊 Sales & Logistics Forecasting Dashboard
+Forty by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-## Overview
-This project presents a comprehensive **sales and requirement forecasting dashboard** built using **Power BI**, leveraging four years of historical data across 100+ items. It aims to support strategic decision-making in logistics and supply chain operations by predicting future demand and optimizing inventory planning.
 
-## 🔍 Problem Statement
-Businesses often struggle with balancing inventory levels and meeting customer demand efficiently. This dashboard addresses:
-- Forecasting future sales trends
-- Identifying seasonal patterns
-- Highlighting stock requirements and potential shortages
-- Enabling data-driven logistics planning
+This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
+creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
+set up to smoothly transition to secondary landing pages (for which a separate page
+template is provided), and includes a number of neat effects (check out the menu!),
+extra features, and all the usual stuff you'd expect. Hope you dig it!
 
-## 📁 Dataset
-- **Source**: Internal company sales records (anonymized)
-- **Period**: January 2021 – December 2024
-- **Granularity**: Monthly
-- **Fields**:
-  - Date
-  - Item ID / Name
-  - Sales Quantity
-  - Category
-  - Location (optional)
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
 
-## 🛠️ Tools & Technologies
-- **Power BI**: Data modeling, DAX calculations, interactive dashboards
-- **Excel**: Initial data cleaning and transformation
-- **Python (Prophet)**: Advanced forecasting for multiple items
-- **Dynamics 365**: ERP integration for real-time updates
+(* = not included)
 
-## 📈 Key Features
-- 📅 Time-series forecasting (12-month horizon)
-- 📦 Item-level demand prediction
-- 📊 Interactive filters by category, location, and item
-- 🚦 Inventory alerts and reorder recommendations
-- 📍 Geo-mapping of sales distribution (if location data is available)
+AJ
+aj@lkn.io | @ajlkn
 
-## 📸 Screenshots
-*Add screenshots to the `images/` folder and reference them here.*
-```markdown
-![Dashboard Overview](images/dashboard-overview.png)
-![Forecasting Panel](images/forecasting-panel.png)
-```
 
-## 📌 Insights
-- Seasonal spikes identified in Q4 across most categories
-- 15% of items show consistent understocking trends
-- Forecast accuracy improved using Prophet over built-in Power BI models
+Credits:
 
-## 🚀 How to Use
-1. Clone the repository
-2. Open the `.pbix` file in Power BI Desktop
-3. Connect to your data source or use the sample dataset
-4. Explore the dashboard and customize filters
+	Demo Images:
+		Unsplash (unsplash.com)
 
-## 📚 Learnings
-- Enhanced understanding of time-series forecasting
-- Improved DAX proficiency for dynamic calculations
-- Experience integrating ERP data into BI workflows
+	Icons:
+		Font Awesome (fontawesome.io)
 
-## 📬 Contact
-**Gbolahan Animasaun**  
-📧 your.email@example.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
-🌍 Crawley, West Sussex
-
----
-
+	Other:
+		jQuery (jquery.com)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
